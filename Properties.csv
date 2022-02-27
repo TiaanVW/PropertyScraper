@@ -1,409 +1,433 @@
-,Title,Price,Adress,Type,bedroom,bathroom,garage
-0,3 Bed House in White River,R 1 695 000,3 Hulala,House,3,2,
-1,5 Bed House in White River,R 2 700 000,173 The Ranch,House,5,5,2
-2,4 Bed House in White River,R 2 750 000,26 Van Riebeeck Street,House,4,3,
-3,4 Bed House in White River,R 7 500 000,3 Hills Loop,House,4,3,2
-4,4 Bed House in Longmere Estate,R 13 650 000,4 Longmere,House,4,4,3
-5,9 Bed House in White River,R 5 500 000,White River,House,9,10,2
-6,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron Street,Apartment,1,1,
-7,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron,Apartment,1,1,
-8,2 Bed Apartment in White River,R 695 000,5 Stelliahof 18 Alie Van Bergen Street,Apartment,2,1,
-9,2 Bed House in White River,R 695 000,20 Annalta 26 Tom Lawrence Street,House,2,1,
-10,2 Bed Townhouse in White River Central,R 734 000,16 Varinghof 2 Willem Swanepoel,Townhouse,2,1,
-11,2 Bed Apartment in White River,R 820 000,12 Matsafeni 90 Outeniqua,Apartment,2,2,
-12,3 Bed House in White River,R 1 299 000,4 Vlier Street,House,3,1,2
-13,3 Bed House in White River,R 1 380 000,14 Patio Village 9 Peter Graham Street,House,3,2,1
-14,3 Bed House in White River,R 1 595 000,11 Hazel Crescent,House,3,2,2
-15,3 Bed House in White River,R 1 650 000,71 Impala Street,House,3,2,2
-16,5 Bed House in White River,R 1 795 000,4 Syd Cornwell Street,House,5,3,1
-17,5 Bed House in White River,R 1 795 000,13 Drakensberg Street,House,5,2,2
-18,4 Bed House in White River,R 2 250 000,22 Hazey River Country Estate 19 Crocodile Close,House,4,4,
-19,4 Bed House in Parkville,R 2 500 000,13 Essenhout Street,House,4,2,
-20,4 ha Farm in White River,R 2 700 000,White River,Farm,5,3,2
-21,5 Bed House in White River,R 2 850 000,8 Bongani,House,5,5,2
-22,4 Bed House in White River,R 2 990 000,121 Heidelberg,House,4,3,
-23,5587 mÂ² Smallholding in White River,R 3 890 000,116 Primkop,Small Holding,,,3
-24,3 Bed House in White River,R 1 695 000,3 Hulala,House,3,2,
-25,5 Bed House in White River,R 2 700 000,173 The Ranch,House,5,5,2
-26,4 Bed House in White River,R 2 750 000,26 Van Riebeeck Street,House,4,3,
-27,4 Bed House in White River,R 7 500 000,3 Hills Loop,House,4,3,2
-28,4 Bed House in Longmere Estate,R 13 650 000,4 Longmere,House,4,4,3
-29,9 Bed House in White River,R 5 500 000,White River,House,9,10,2
-30,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron Street,Apartment,1,1,
-31,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron,Apartment,1,1,
-32,2 Bed Apartment in White River,R 695 000,5 Stelliahof 18 Alie Van Bergen Street,Apartment,2,1,
-33,2 Bed House in White River,R 695 000,20 Annalta 26 Tom Lawrence Street,House,2,1,
-34,2 Bed Townhouse in White River Central,R 734 000,16 Varinghof 2 Willem Swanepoel,Townhouse,2,1,
-35,2 Bed Apartment in White River,R 820 000,12 Matsafeni 90 Outeniqua,Apartment,2,2,
-36,3 Bed House in White River,R 1 299 000,4 Vlier Street,House,3,1,2
-37,3 Bed House in White River,R 1 380 000,14 Patio Village 9 Peter Graham Street,House,3,2,1
-38,3 Bed House in White River,R 1 595 000,11 Hazel Crescent,House,3,2,2
-39,3 Bed House in White River,R 1 650 000,71 Impala Street,House,3,2,2
-40,5 Bed House in White River,R 1 795 000,4 Syd Cornwell Street,House,5,3,1
-41,5 Bed House in White River,R 1 795 000,13 Drakensberg Street,House,5,2,2
-42,4 Bed House in White River,R 2 250 000,22 Hazey River Country Estate 19 Crocodile Close,House,4,4,
-43,4 Bed House in Parkville,R 2 500 000,13 Essenhout Street,House,4,2,
-44,4 ha Farm in White River,R 2 700 000,White River,Farm,5,3,2
-45,5 Bed House in White River,R 2 850 000,8 Bongani,House,5,5,2
-46,4 Bed House in White River,R 2 990 000,121 Heidelberg,House,4,3,
-47,5587 mÂ² Smallholding in White River,R 3 890 000,116 Primkop,Small Holding,,,3
-48,3 Bed House in White River,R 1 695 000,3 Hulala,House,3,2,
-49,5 Bed House in White River,R 2 700 000,173 The Ranch,House,5,5,2
-50,4 Bed House in White River,R 2 750 000,26 Van Riebeeck Street,House,4,3,
-51,4 Bed House in White River,R 7 500 000,3 Hills Loop,House,4,3,2
-52,4 Bed House in Longmere Estate,R 13 650 000,4 Longmere,House,4,4,3
-53,9 Bed House in White River,R 5 500 000,White River,House,9,10,2
-54,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron Street,Apartment,1,1,
-55,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron,Apartment,1,1,
-56,2 Bed Apartment in White River,R 695 000,5 Stelliahof 18 Alie Van Bergen Street,Apartment,2,1,
-57,2 Bed House in White River,R 695 000,20 Annalta 26 Tom Lawrence Street,House,2,1,
-58,2 Bed Townhouse in White River Central,R 734 000,16 Varinghof 2 Willem Swanepoel,Townhouse,2,1,
-59,2 Bed Apartment in White River,R 820 000,12 Matsafeni 90 Outeniqua,Apartment,2,2,
-60,3 Bed House in White River,R 1 299 000,4 Vlier Street,House,3,1,2
-61,3 Bed House in White River,R 1 380 000,14 Patio Village 9 Peter Graham Street,House,3,2,1
-62,3 Bed House in White River,R 1 595 000,11 Hazel Crescent,House,3,2,2
-63,3 Bed House in White River,R 1 650 000,71 Impala Street,House,3,2,2
-64,5 Bed House in White River,R 1 795 000,4 Syd Cornwell Street,House,5,3,1
-65,5 Bed House in White River,R 1 795 000,13 Drakensberg Street,House,5,2,2
-66,4 Bed House in White River,R 2 250 000,22 Hazey River Country Estate 19 Crocodile Close,House,4,4,
-67,4 Bed House in Parkville,R 2 500 000,13 Essenhout Street,House,4,2,
-68,4 ha Farm in White River,R 2 700 000,White River,Farm,5,3,2
-69,5 Bed House in White River,R 2 850 000,8 Bongani,House,5,5,2
-70,4 Bed House in White River,R 2 990 000,121 Heidelberg,House,4,3,
-71,5587 mÂ² Smallholding in White River,R 3 890 000,116 Primkop,Small Holding,,,3
-72,3 Bed House in White River,R 1 695 000,3 Hulala,House,3,2,
-73,5 Bed House in White River,R 2 700 000,173 The Ranch,House,5,5,2
-74,4 Bed House in White River,R 2 750 000,26 Van Riebeeck Street,House,4,3,
-75,4 Bed House in White River,R 7 500 000,3 Hills Loop,House,4,3,2
-76,4 Bed House in Longmere Estate,R 13 650 000,4 Longmere,House,4,4,3
-77,9 Bed House in White River,R 5 500 000,White River,House,9,10,2
-78,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron Street,Apartment,1,1,
-79,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron,Apartment,1,1,
-80,2 Bed Apartment in White River,R 695 000,5 Stelliahof 18 Alie Van Bergen Street,Apartment,2,1,
-81,2 Bed House in White River,R 695 000,20 Annalta 26 Tom Lawrence Street,House,2,1,
-82,2 Bed Townhouse in White River Central,R 734 000,16 Varinghof 2 Willem Swanepoel,Townhouse,2,1,
-83,2 Bed Apartment in White River,R 820 000,12 Matsafeni 90 Outeniqua,Apartment,2,2,
-84,3 Bed House in White River,R 1 299 000,4 Vlier Street,House,3,1,2
-85,3 Bed House in White River,R 1 380 000,14 Patio Village 9 Peter Graham Street,House,3,2,1
-86,3 Bed House in White River,R 1 595 000,11 Hazel Crescent,House,3,2,2
-87,3 Bed House in White River,R 1 650 000,71 Impala Street,House,3,2,2
-88,5 Bed House in White River,R 1 795 000,4 Syd Cornwell Street,House,5,3,1
-89,5 Bed House in White River,R 1 795 000,13 Drakensberg Street,House,5,2,2
-90,4 Bed House in White River,R 2 250 000,22 Hazey River Country Estate 19 Crocodile Close,House,4,4,
-91,4 Bed House in Parkville,R 2 500 000,13 Essenhout Street,House,4,2,
-92,4 ha Farm in White River,R 2 700 000,White River,Farm,5,3,2
-93,5 Bed House in White River,R 2 850 000,8 Bongani,House,5,5,2
-94,4 Bed House in White River,R 2 990 000,121 Heidelberg,House,4,3,
-95,5587 mÂ² Smallholding in White River,R 3 890 000,116 Primkop,Small Holding,,,3
-96,3 Bed House in White River,R 1 695 000,3 Hulala,House,3,2,
-97,5 Bed House in White River,R 2 700 000,173 The Ranch,House,5,5,2
-98,4 Bed House in White River,R 2 750 000,26 Van Riebeeck Street,House,4,3,
-99,4 Bed House in White River,R 7 500 000,3 Hills Loop,House,4,3,2
-100,4 Bed House in Longmere Estate,R 13 650 000,4 Longmere,House,4,4,3
-101,9 Bed House in White River,R 5 500 000,White River,House,9,10,2
-102,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron Street,Apartment,1,1,
-103,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron,Apartment,1,1,
-104,2 Bed Apartment in White River,R 695 000,5 Stelliahof 18 Alie Van Bergen Street,Apartment,2,1,
-105,2 Bed House in White River,R 695 000,20 Annalta 26 Tom Lawrence Street,House,2,1,
-106,2 Bed Townhouse in White River Central,R 734 000,16 Varinghof 2 Willem Swanepoel,Townhouse,2,1,
-107,2 Bed Apartment in White River,R 820 000,12 Matsafeni 90 Outeniqua,Apartment,2,2,
-108,3 Bed House in White River,R 1 299 000,4 Vlier Street,House,3,1,2
-109,3 Bed House in White River,R 1 380 000,14 Patio Village 9 Peter Graham Street,House,3,2,1
-110,3 Bed House in White River,R 1 595 000,11 Hazel Crescent,House,3,2,2
-111,3 Bed House in White River,R 1 650 000,71 Impala Street,House,3,2,2
-112,5 Bed House in White River,R 1 795 000,4 Syd Cornwell Street,House,5,3,1
-113,5 Bed House in White River,R 1 795 000,13 Drakensberg Street,House,5,2,2
-114,4 Bed House in White River,R 2 250 000,22 Hazey River Country Estate 19 Crocodile Close,House,4,4,
-115,4 Bed House in Parkville,R 2 500 000,13 Essenhout Street,House,4,2,
-116,4 ha Farm in White River,R 2 700 000,White River,Farm,5,3,2
-117,5 Bed House in White River,R 2 850 000,8 Bongani,House,5,5,2
-118,4 Bed House in White River,R 2 990 000,121 Heidelberg,House,4,3,
-119,5587 mÂ² Smallholding in White River,R 3 890 000,116 Primkop,Small Holding,,,3
-120,3 Bed House in White River,R 1 695 000,3 Hulala,House,3,2,
-121,5 Bed House in White River,R 2 700 000,173 The Ranch,House,5,5,2
-122,4 Bed House in White River,R 2 750 000,26 Van Riebeeck Street,House,4,3,
-123,4 Bed House in White River,R 7 500 000,3 Hills Loop,House,4,3,2
-124,4 Bed House in Longmere Estate,R 13 650 000,4 Longmere,House,4,4,3
-125,9 Bed House in White River,R 5 500 000,White River,House,9,10,2
-126,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron Street,Apartment,1,1,
-127,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron,Apartment,1,1,
-128,2 Bed Apartment in White River,R 695 000,5 Stelliahof 18 Alie Van Bergen Street,Apartment,2,1,
-129,2 Bed House in White River,R 695 000,20 Annalta 26 Tom Lawrence Street,House,2,1,
-130,2 Bed Townhouse in White River Central,R 734 000,16 Varinghof 2 Willem Swanepoel,Townhouse,2,1,
-131,2 Bed Apartment in White River,R 820 000,12 Matsafeni 90 Outeniqua,Apartment,2,2,
-132,3 Bed House in White River,R 1 299 000,4 Vlier Street,House,3,1,2
-133,3 Bed House in White River,R 1 380 000,14 Patio Village 9 Peter Graham Street,House,3,2,1
-134,3 Bed House in White River,R 1 595 000,11 Hazel Crescent,House,3,2,2
-135,3 Bed House in White River,R 1 650 000,71 Impala Street,House,3,2,2
-136,5 Bed House in White River,R 1 795 000,4 Syd Cornwell Street,House,5,3,1
-137,5 Bed House in White River,R 1 795 000,13 Drakensberg Street,House,5,2,2
-138,4 Bed House in White River,R 2 250 000,22 Hazey River Country Estate 19 Crocodile Close,House,4,4,
-139,4 Bed House in Parkville,R 2 500 000,13 Essenhout Street,House,4,2,
-140,4 ha Farm in White River,R 2 700 000,White River,Farm,5,3,2
-141,5 Bed House in White River,R 2 850 000,8 Bongani,House,5,5,2
-142,4 Bed House in White River,R 2 990 000,121 Heidelberg,House,4,3,
-143,5587 mÂ² Smallholding in White River,R 3 890 000,116 Primkop,Small Holding,,,3
-144,3 Bed House in White River,R 1 695 000,3 Hulala,House,3,2,
-145,5 Bed House in White River,R 2 700 000,173 The Ranch,House,5,5,2
-146,4 Bed House in White River,R 2 750 000,26 Van Riebeeck Street,House,4,3,
-147,4 Bed House in White River,R 7 500 000,3 Hills Loop,House,4,3,2
-148,4 Bed House in Longmere Estate,R 13 650 000,4 Longmere,House,4,4,3
-149,9 Bed House in White River,R 5 500 000,White River,House,9,10,2
-150,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron Street,Apartment,1,1,
-151,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron,Apartment,1,1,
-152,2 Bed Apartment in White River,R 695 000,5 Stelliahof 18 Alie Van Bergen Street,Apartment,2,1,
-153,2 Bed House in White River,R 695 000,20 Annalta 26 Tom Lawrence Street,House,2,1,
-154,2 Bed Townhouse in White River Central,R 734 000,16 Varinghof 2 Willem Swanepoel,Townhouse,2,1,
-155,2 Bed Apartment in White River,R 820 000,12 Matsafeni 90 Outeniqua,Apartment,2,2,
-156,3 Bed House in White River,R 1 299 000,4 Vlier Street,House,3,1,2
-157,3 Bed House in White River,R 1 380 000,14 Patio Village 9 Peter Graham Street,House,3,2,1
-158,3 Bed House in White River,R 1 595 000,11 Hazel Crescent,House,3,2,2
-159,3 Bed House in White River,R 1 650 000,71 Impala Street,House,3,2,2
-160,5 Bed House in White River,R 1 795 000,4 Syd Cornwell Street,House,5,3,1
-161,5 Bed House in White River,R 1 795 000,13 Drakensberg Street,House,5,2,2
-162,4 Bed House in White River,R 2 250 000,22 Hazey River Country Estate 19 Crocodile Close,House,4,4,
-163,4 Bed House in Parkville,R 2 500 000,13 Essenhout Street,House,4,2,
-164,4 ha Farm in White River,R 2 700 000,White River,Farm,5,3,2
-165,5 Bed House in White River,R 2 850 000,8 Bongani,House,5,5,2
-166,4 Bed House in White River,R 2 990 000,121 Heidelberg,House,4,3,
-167,5587 mÂ² Smallholding in White River,R 3 890 000,116 Primkop,Small Holding,,,3
-168,3 Bed House in White River,R 1 695 000,3 Hulala,House,3,2,
-169,5 Bed House in White River,R 2 700 000,173 The Ranch,House,5,5,2
-170,4 Bed House in White River,R 2 750 000,26 Van Riebeeck Street,House,4,3,
-171,4 Bed House in White River,R 7 500 000,3 Hills Loop,House,4,3,2
-172,4 Bed House in Longmere Estate,R 13 650 000,4 Longmere,House,4,4,3
-173,9 Bed House in White River,R 5 500 000,White River,House,9,10,2
-174,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron Street,Apartment,1,1,
-175,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron,Apartment,1,1,
-176,2 Bed Apartment in White River,R 695 000,5 Stelliahof 18 Alie Van Bergen Street,Apartment,2,1,
-177,2 Bed House in White River,R 695 000,20 Annalta 26 Tom Lawrence Street,House,2,1,
-178,2 Bed Townhouse in White River Central,R 734 000,16 Varinghof 2 Willem Swanepoel,Townhouse,2,1,
-179,2 Bed Apartment in White River,R 820 000,12 Matsafeni 90 Outeniqua,Apartment,2,2,
-180,3 Bed House in White River,R 1 299 000,4 Vlier Street,House,3,1,2
-181,3 Bed House in White River,R 1 380 000,14 Patio Village 9 Peter Graham Street,House,3,2,1
-182,3 Bed House in White River,R 1 595 000,11 Hazel Crescent,House,3,2,2
-183,3 Bed House in White River,R 1 650 000,71 Impala Street,House,3,2,2
-184,5 Bed House in White River,R 1 795 000,4 Syd Cornwell Street,House,5,3,1
-185,5 Bed House in White River,R 1 795 000,13 Drakensberg Street,House,5,2,2
-186,4 Bed House in White River,R 2 250 000,22 Hazey River Country Estate 19 Crocodile Close,House,4,4,
-187,4 Bed House in Parkville,R 2 500 000,13 Essenhout Street,House,4,2,
-188,4 ha Farm in White River,R 2 700 000,White River,Farm,5,3,2
-189,5 Bed House in White River,R 2 850 000,8 Bongani,House,5,5,2
-190,4 Bed House in White River,R 2 990 000,121 Heidelberg,House,4,3,
-191,5587 mÂ² Smallholding in White River,R 3 890 000,116 Primkop,Small Holding,,,3
-192,3 Bed House in White River,R 1 695 000,3 Hulala,House,3,2,
-193,5 Bed House in White River,R 2 700 000,173 The Ranch,House,5,5,2
-194,4 Bed House in White River,R 2 750 000,26 Van Riebeeck Street,House,4,3,
-195,4 Bed House in White River,R 7 500 000,3 Hills Loop,House,4,3,2
-196,4 Bed House in Longmere Estate,R 13 650 000,4 Longmere,House,4,4,3
-197,9 Bed House in White River,R 5 500 000,White River,House,9,10,2
-198,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron Street,Apartment,1,1,
-199,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron,Apartment,1,1,
-200,2 Bed Apartment in White River,R 695 000,5 Stelliahof 18 Alie Van Bergen Street,Apartment,2,1,
-201,2 Bed House in White River,R 695 000,20 Annalta 26 Tom Lawrence Street,House,2,1,
-202,2 Bed Townhouse in White River Central,R 734 000,16 Varinghof 2 Willem Swanepoel,Townhouse,2,1,
-203,2 Bed Apartment in White River,R 820 000,12 Matsafeni 90 Outeniqua,Apartment,2,2,
-204,3 Bed House in White River,R 1 299 000,4 Vlier Street,House,3,1,2
-205,3 Bed House in White River,R 1 380 000,14 Patio Village 9 Peter Graham Street,House,3,2,1
-206,3 Bed House in White River,R 1 595 000,11 Hazel Crescent,House,3,2,2
-207,3 Bed House in White River,R 1 650 000,71 Impala Street,House,3,2,2
-208,5 Bed House in White River,R 1 795 000,4 Syd Cornwell Street,House,5,3,1
-209,5 Bed House in White River,R 1 795 000,13 Drakensberg Street,House,5,2,2
-210,4 Bed House in White River,R 2 250 000,22 Hazey River Country Estate 19 Crocodile Close,House,4,4,
-211,4 Bed House in Parkville,R 2 500 000,13 Essenhout Street,House,4,2,
-212,4 ha Farm in White River,R 2 700 000,White River,Farm,5,3,2
-213,5 Bed House in White River,R 2 850 000,8 Bongani,House,5,5,2
-214,4 Bed House in White River,R 2 990 000,121 Heidelberg,House,4,3,
-215,5587 mÂ² Smallholding in White River,R 3 890 000,116 Primkop,Small Holding,,,3
-216,3 Bed House in White River,R 1 695 000,3 Hulala,House,3,2,
-217,5 Bed House in White River,R 2 700 000,173 The Ranch,House,5,5,2
-218,4 Bed House in White River,R 2 750 000,26 Van Riebeeck Street,House,4,3,
-219,4 Bed House in White River,R 7 500 000,3 Hills Loop,House,4,3,2
-220,4 Bed House in Longmere Estate,R 13 650 000,4 Longmere,House,4,4,3
-221,9 Bed House in White River,R 5 500 000,White River,House,9,10,2
-222,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron Street,Apartment,1,1,
-223,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron,Apartment,1,1,
-224,2 Bed Apartment in White River,R 695 000,5 Stelliahof 18 Alie Van Bergen Street,Apartment,2,1,
-225,2 Bed House in White River,R 695 000,20 Annalta 26 Tom Lawrence Street,House,2,1,
-226,2 Bed Townhouse in White River Central,R 734 000,16 Varinghof 2 Willem Swanepoel,Townhouse,2,1,
-227,2 Bed Apartment in White River,R 820 000,12 Matsafeni 90 Outeniqua,Apartment,2,2,
-228,3 Bed House in White River,R 1 299 000,4 Vlier Street,House,3,1,2
-229,3 Bed House in White River,R 1 380 000,14 Patio Village 9 Peter Graham Street,House,3,2,1
-230,3 Bed House in White River,R 1 595 000,11 Hazel Crescent,House,3,2,2
-231,3 Bed House in White River,R 1 650 000,71 Impala Street,House,3,2,2
-232,5 Bed House in White River,R 1 795 000,4 Syd Cornwell Street,House,5,3,1
-233,5 Bed House in White River,R 1 795 000,13 Drakensberg Street,House,5,2,2
-234,4 Bed House in White River,R 2 250 000,22 Hazey River Country Estate 19 Crocodile Close,House,4,4,
-235,4 Bed House in Parkville,R 2 500 000,13 Essenhout Street,House,4,2,
-236,4 ha Farm in White River,R 2 700 000,White River,Farm,5,3,2
-237,5 Bed House in White River,R 2 850 000,8 Bongani,House,5,5,2
-238,4 Bed House in White River,R 2 990 000,121 Heidelberg,House,4,3,
-239,5587 mÂ² Smallholding in White River,R 3 890 000,116 Primkop,Small Holding,,,3
-240,3 Bed House in White River,R 1 695 000,3 Hulala,House,3,2,
-241,5 Bed House in White River,R 2 700 000,173 The Ranch,House,5,5,2
-242,4 Bed House in White River,R 2 750 000,26 Van Riebeeck Street,House,4,3,
-243,4 Bed House in White River,R 7 500 000,3 Hills Loop,House,4,3,2
-244,4 Bed House in Longmere Estate,R 13 650 000,4 Longmere,House,4,4,3
-245,9 Bed House in White River,R 5 500 000,White River,House,9,10,2
-246,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron Street,Apartment,1,1,
-247,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron,Apartment,1,1,
-248,2 Bed Apartment in White River,R 695 000,5 Stelliahof 18 Alie Van Bergen Street,Apartment,2,1,
-249,2 Bed House in White River,R 695 000,20 Annalta 26 Tom Lawrence Street,House,2,1,
-250,2 Bed Townhouse in White River Central,R 734 000,16 Varinghof 2 Willem Swanepoel,Townhouse,2,1,
-251,2 Bed Apartment in White River,R 820 000,12 Matsafeni 90 Outeniqua,Apartment,2,2,
-252,3 Bed House in White River,R 1 299 000,4 Vlier Street,House,3,1,2
-253,3 Bed House in White River,R 1 380 000,14 Patio Village 9 Peter Graham Street,House,3,2,1
-254,3 Bed House in White River,R 1 595 000,11 Hazel Crescent,House,3,2,2
-255,3 Bed House in White River,R 1 650 000,71 Impala Street,House,3,2,2
-256,5 Bed House in White River,R 1 795 000,4 Syd Cornwell Street,House,5,3,1
-257,5 Bed House in White River,R 1 795 000,13 Drakensberg Street,House,5,2,2
-258,4 Bed House in White River,R 2 250 000,22 Hazey River Country Estate 19 Crocodile Close,House,4,4,
-259,4 Bed House in Parkville,R 2 500 000,13 Essenhout Street,House,4,2,
-260,4 ha Farm in White River,R 2 700 000,White River,Farm,5,3,2
-261,5 Bed House in White River,R 2 850 000,8 Bongani,House,5,5,2
-262,4 Bed House in White River,R 2 990 000,121 Heidelberg,House,4,3,
-263,5587 mÂ² Smallholding in White River,R 3 890 000,116 Primkop,Small Holding,,,3
-264,3 Bed House in White River,R 1 695 000,3 Hulala,House,3,2,
-265,5 Bed House in White River,R 2 700 000,173 The Ranch,House,5,5,2
-266,4 Bed House in White River,R 2 750 000,26 Van Riebeeck Street,House,4,3,
-267,4 Bed House in White River,R 7 500 000,3 Hills Loop,House,4,3,2
-268,4 Bed House in Longmere Estate,R 13 650 000,4 Longmere,House,4,4,3
-269,9 Bed House in White River,R 5 500 000,White River,House,9,10,2
-270,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron Street,Apartment,1,1,
-271,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron,Apartment,1,1,
-272,2 Bed Apartment in White River,R 695 000,5 Stelliahof 18 Alie Van Bergen Street,Apartment,2,1,
-273,2 Bed House in White River,R 695 000,20 Annalta 26 Tom Lawrence Street,House,2,1,
-274,2 Bed Townhouse in White River Central,R 734 000,16 Varinghof 2 Willem Swanepoel,Townhouse,2,1,
-275,2 Bed Apartment in White River,R 820 000,12 Matsafeni 90 Outeniqua,Apartment,2,2,
-276,3 Bed House in White River,R 1 299 000,4 Vlier Street,House,3,1,2
-277,3 Bed House in White River,R 1 380 000,14 Patio Village 9 Peter Graham Street,House,3,2,1
-278,3 Bed House in White River,R 1 595 000,11 Hazel Crescent,House,3,2,2
-279,3 Bed House in White River,R 1 650 000,71 Impala Street,House,3,2,2
-280,5 Bed House in White River,R 1 795 000,4 Syd Cornwell Street,House,5,3,1
-281,5 Bed House in White River,R 1 795 000,13 Drakensberg Street,House,5,2,2
-282,4 Bed House in White River,R 2 250 000,22 Hazey River Country Estate 19 Crocodile Close,House,4,4,
-283,4 Bed House in Parkville,R 2 500 000,13 Essenhout Street,House,4,2,
-284,4 ha Farm in White River,R 2 700 000,White River,Farm,5,3,2
-285,5 Bed House in White River,R 2 850 000,8 Bongani,House,5,5,2
-286,4 Bed House in White River,R 2 990 000,121 Heidelberg,House,4,3,
-287,5587 mÂ² Smallholding in White River,R 3 890 000,116 Primkop,Small Holding,,,3
-288,3 Bed House in White River,R 1 695 000,3 Hulala,House,3,2,
-289,5 Bed House in White River,R 2 700 000,173 The Ranch,House,5,5,2
-290,4 Bed House in White River,R 2 750 000,26 Van Riebeeck Street,House,4,3,
-291,4 Bed House in White River,R 7 500 000,3 Hills Loop,House,4,3,2
-292,4 Bed House in Longmere Estate,R 13 650 000,4 Longmere,House,4,4,3
-293,9 Bed House in White River,R 5 500 000,White River,House,9,10,2
-294,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron Street,Apartment,1,1,
-295,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron,Apartment,1,1,
-296,2 Bed Apartment in White River,R 695 000,5 Stelliahof 18 Alie Van Bergen Street,Apartment,2,1,
-297,2 Bed House in White River,R 695 000,20 Annalta 26 Tom Lawrence Street,House,2,1,
-298,2 Bed Townhouse in White River Central,R 734 000,16 Varinghof 2 Willem Swanepoel,Townhouse,2,1,
-299,2 Bed Apartment in White River,R 820 000,12 Matsafeni 90 Outeniqua,Apartment,2,2,
-300,3 Bed House in White River,R 1 299 000,4 Vlier Street,House,3,1,2
-301,3 Bed House in White River,R 1 380 000,14 Patio Village 9 Peter Graham Street,House,3,2,1
-302,3 Bed House in White River,R 1 595 000,11 Hazel Crescent,House,3,2,2
-303,3 Bed House in White River,R 1 650 000,71 Impala Street,House,3,2,2
-304,5 Bed House in White River,R 1 795 000,4 Syd Cornwell Street,House,5,3,1
-305,5 Bed House in White River,R 1 795 000,13 Drakensberg Street,House,5,2,2
-306,4 Bed House in White River,R 2 250 000,22 Hazey River Country Estate 19 Crocodile Close,House,4,4,
-307,4 Bed House in Parkville,R 2 500 000,13 Essenhout Street,House,4,2,
-308,4 ha Farm in White River,R 2 700 000,White River,Farm,5,3,2
-309,5 Bed House in White River,R 2 850 000,8 Bongani,House,5,5,2
-310,4 Bed House in White River,R 2 990 000,121 Heidelberg,House,4,3,
-311,5587 mÂ² Smallholding in White River,R 3 890 000,116 Primkop,Small Holding,,,3
-312,3 Bed House in White River,R 1 695 000,3 Hulala,House,3,2,
-313,5 Bed House in White River,R 2 700 000,173 The Ranch,House,5,5,2
-314,4 Bed House in White River,R 2 750 000,26 Van Riebeeck Street,House,4,3,
-315,4 Bed House in White River,R 7 500 000,3 Hills Loop,House,4,3,2
-316,4 Bed House in Longmere Estate,R 13 650 000,4 Longmere,House,4,4,3
-317,9 Bed House in White River,R 5 500 000,White River,House,9,10,2
-318,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron Street,Apartment,1,1,
-319,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron,Apartment,1,1,
-320,2 Bed Apartment in White River,R 695 000,5 Stelliahof 18 Alie Van Bergen Street,Apartment,2,1,
-321,2 Bed House in White River,R 695 000,20 Annalta 26 Tom Lawrence Street,House,2,1,
-322,2 Bed Townhouse in White River Central,R 734 000,16 Varinghof 2 Willem Swanepoel,Townhouse,2,1,
-323,2 Bed Apartment in White River,R 820 000,12 Matsafeni 90 Outeniqua,Apartment,2,2,
-324,3 Bed House in White River,R 1 299 000,4 Vlier Street,House,3,1,2
-325,3 Bed House in White River,R 1 380 000,14 Patio Village 9 Peter Graham Street,House,3,2,1
-326,3 Bed House in White River,R 1 595 000,11 Hazel Crescent,House,3,2,2
-327,3 Bed House in White River,R 1 650 000,71 Impala Street,House,3,2,2
-328,5 Bed House in White River,R 1 795 000,4 Syd Cornwell Street,House,5,3,1
-329,5 Bed House in White River,R 1 795 000,13 Drakensberg Street,House,5,2,2
-330,4 Bed House in White River,R 2 250 000,22 Hazey River Country Estate 19 Crocodile Close,House,4,4,
-331,4 Bed House in Parkville,R 2 500 000,13 Essenhout Street,House,4,2,
-332,4 ha Farm in White River,R 2 700 000,White River,Farm,5,3,2
-333,5 Bed House in White River,R 2 850 000,8 Bongani,House,5,5,2
-334,4 Bed House in White River,R 2 990 000,121 Heidelberg,House,4,3,
-335,5587 mÂ² Smallholding in White River,R 3 890 000,116 Primkop,Small Holding,,,3
-336,3 Bed House in White River,R 1 695 000,3 Hulala,House,3,2,
-337,5 Bed House in White River,R 2 700 000,173 The Ranch,House,5,5,2
-338,4 Bed House in White River,R 2 750 000,26 Van Riebeeck Street,House,4,3,
-339,4 Bed House in White River,R 7 500 000,3 Hills Loop,House,4,3,2
-340,4 Bed House in Longmere Estate,R 13 650 000,4 Longmere,House,4,4,3
-341,9 Bed House in White River,R 5 500 000,White River,House,9,10,2
-342,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron Street,Apartment,1,1,
-343,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron,Apartment,1,1,
-344,2 Bed Apartment in White River,R 695 000,5 Stelliahof 18 Alie Van Bergen Street,Apartment,2,1,
-345,2 Bed House in White River,R 695 000,20 Annalta 26 Tom Lawrence Street,House,2,1,
-346,2 Bed Townhouse in White River Central,R 734 000,16 Varinghof 2 Willem Swanepoel,Townhouse,2,1,
-347,2 Bed Apartment in White River,R 820 000,12 Matsafeni 90 Outeniqua,Apartment,2,2,
-348,3 Bed House in White River,R 1 299 000,4 Vlier Street,House,3,1,2
-349,3 Bed House in White River,R 1 380 000,14 Patio Village 9 Peter Graham Street,House,3,2,1
-350,3 Bed House in White River,R 1 595 000,11 Hazel Crescent,House,3,2,2
-351,3 Bed House in White River,R 1 650 000,71 Impala Street,House,3,2,2
-352,5 Bed House in White River,R 1 795 000,4 Syd Cornwell Street,House,5,3,1
-353,5 Bed House in White River,R 1 795 000,13 Drakensberg Street,House,5,2,2
-354,4 Bed House in White River,R 2 250 000,22 Hazey River Country Estate 19 Crocodile Close,House,4,4,
-355,4 Bed House in Parkville,R 2 500 000,13 Essenhout Street,House,4,2,
-356,4 ha Farm in White River,R 2 700 000,White River,Farm,5,3,2
-357,5 Bed House in White River,R 2 850 000,8 Bongani,House,5,5,2
-358,4 Bed House in White River,R 2 990 000,121 Heidelberg,House,4,3,
-359,5587 mÂ² Smallholding in White River,R 3 890 000,116 Primkop,Small Holding,,,3
-360,3 Bed House in White River,R 1 695 000,3 Hulala,House,3,2,
-361,5 Bed House in White River,R 2 700 000,173 The Ranch,House,5,5,2
-362,4 Bed House in White River,R 2 750 000,26 Van Riebeeck Street,House,4,3,
-363,4 Bed House in White River,R 7 500 000,3 Hills Loop,House,4,3,2
-364,4 Bed House in Longmere Estate,R 13 650 000,4 Longmere,House,4,4,3
-365,9 Bed House in White River,R 5 500 000,White River,House,9,10,2
-366,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron Street,Apartment,1,1,
-367,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron,Apartment,1,1,
-368,2 Bed Apartment in White River,R 695 000,5 Stelliahof 18 Alie Van Bergen Street,Apartment,2,1,
-369,2 Bed House in White River,R 695 000,20 Annalta 26 Tom Lawrence Street,House,2,1,
-370,2 Bed Townhouse in White River Central,R 734 000,16 Varinghof 2 Willem Swanepoel,Townhouse,2,1,
-371,2 Bed Apartment in White River,R 820 000,12 Matsafeni 90 Outeniqua,Apartment,2,2,
-372,3 Bed House in White River,R 1 299 000,4 Vlier Street,House,3,1,2
-373,3 Bed House in White River,R 1 380 000,14 Patio Village 9 Peter Graham Street,House,3,2,1
-374,3 Bed House in White River,R 1 595 000,11 Hazel Crescent,House,3,2,2
-375,3 Bed House in White River,R 1 650 000,71 Impala Street,House,3,2,2
-376,5 Bed House in White River,R 1 795 000,4 Syd Cornwell Street,House,5,3,1
-377,5 Bed House in White River,R 1 795 000,13 Drakensberg Street,House,5,2,2
-378,4 Bed House in White River,R 2 250 000,22 Hazey River Country Estate 19 Crocodile Close,House,4,4,
-379,4 Bed House in Parkville,R 2 500 000,13 Essenhout Street,House,4,2,
-380,4 ha Farm in White River,R 2 700 000,White River,Farm,5,3,2
-381,5 Bed House in White River,R 2 850 000,8 Bongani,House,5,5,2
-382,4 Bed House in White River,R 2 990 000,121 Heidelberg,House,4,3,
-383,5587 mÂ² Smallholding in White River,R 3 890 000,116 Primkop,Small Holding,,,3
-384,3 Bed House in White River,R 1 695 000,3 Hulala,House,3,2,
-385,5 Bed House in White River,R 2 700 000,173 The Ranch,House,5,5,2
-386,4 Bed House in White River,R 2 750 000,26 Van Riebeeck Street,House,4,3,
-387,4 Bed House in White River,R 7 500 000,3 Hills Loop,House,4,3,2
-388,4 Bed House in Longmere Estate,R 13 650 000,4 Longmere,House,4,4,3
-389,9 Bed House in White River,R 5 500 000,White River,House,9,10,2
-390,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron Street,Apartment,1,1,
-391,1 Bed Apartment in White River,R 525 000,8 The Village 2 Japie Theron,Apartment,1,1,
-392,2 Bed Apartment in White River,R 695 000,5 Stelliahof 18 Alie Van Bergen Street,Apartment,2,1,
-393,2 Bed House in White River,R 695 000,20 Annalta 26 Tom Lawrence Street,House,2,1,
-394,2 Bed Townhouse in White River Central,R 734 000,16 Varinghof 2 Willem Swanepoel,Townhouse,2,1,
-395,2 Bed Apartment in White River,R 820 000,12 Matsafeni 90 Outeniqua,Apartment,2,2,
-396,3 Bed House in White River,R 1 299 000,4 Vlier Street,House,3,1,2
-397,3 Bed House in White River,R 1 380 000,14 Patio Village 9 Peter Graham Street,House,3,2,1
-398,3 Bed House in White River,R 1 595 000,11 Hazel Crescent,House,3,2,2
-399,3 Bed House in White River,R 1 650 000,71 Impala Street,House,3,2,2
-400,5 Bed House in White River,R 1 795 000,4 Syd Cornwell Street,House,5,3,1
-401,5 Bed House in White River,R 1 795 000,13 Drakensberg Street,House,5,2,2
-402,4 Bed House in White River,R 2 250 000,22 Hazey River Country Estate 19 Crocodile Close,House,4,4,
-403,4 Bed House in Parkville,R 2 500 000,13 Essenhout Street,House,4,2,
-404,4 ha Farm in White River,R 2 700 000,White River,Farm,5,3,2
-405,5 Bed House in White River,R 2 850 000,8 Bongani,House,5,5,2
-406,4 Bed House in White River,R 2 990 000,121 Heidelberg,House,4,3,
-407,5587 mÂ² Smallholding in White River,R 3 890 000,116 Primkop,Small Holding,,,3
+Column1;Title;Price;Address;Suburb;Type;bedroom;bathroom;lat;lon;garage
+0;3 Bed House in White River; 1 695 000;3 Hulala;White River;House;3;2;-25.326269999999965;31.022020000000055;
+1;5 Bed House in White River; 2 700 000;173 The Ranch;White River;House;5;5;-25.326269999999965;31.022020000000055;2
+2;4 Bed House in White River; 2 750 000;26 Van Riebeeck Street;White River;House;4;3;-25.332709995719;31.006240002348193;
+3;4 Bed House in White River; 7 500 000;3 Hills Loop;White River;House;4;3;-25.326269999999965;31.022020000000055;2
+4;4 Bed House in Longmere Estate; 13 650 000;4 Longmere;White River;House;4;4;-25.31637999476696;31.002200008836667;3
+5;9 Bed House in White River; 5 500 000;White River;White River;House;9;10;;;2
+6;1 Bed Apartment in White River; 525 000;8 The Village 2 Japie Theron Street;White River;Apartment;1;1;-25.325899992755566;31.022699964708977;
+7;1 Bed Apartment in White River; 525 000;8 The Village 2 Japie Theron;White River;Apartment;1;1;-25.325899992755566;31.022699964708977;
+8;2 Bed Apartment in White River; 695 000;5 Stelliahof 18 Alie Van Bergen Street;White River;Apartment;2;1;-25.33221001519459;31.01365002385046;
+9;2 Bed House in White River; 695 000;20 Annalta 26 Tom Lawrence Street;White River;House;2;1;-25.322732807367025;31.025286187408028;
+10;2 Bed Townhouse in White River Central; 734 000;16 Varinghof 2 Willem Swanepoel;White River;Townhouse;2;1;-25.32850844658249;31.014743959089493;
+11;2 Bed Apartment in White River; 820 000;12 Matsafeni 90 Outeniqua;White River;Apartment;2;2;-25.332189982445996;30.9972299593488;
+12;3 Bed House in White River; 1 299 000;4 Vlier Street;White River;House;3;1;-25.31862001648109;31.01451998158103;2
+13;3 Bed House in White River; 1 380 000;14 Patio Village 9 Peter Graham Street;White River;House;3;2;-25.32921998078433;31.020350014334696;1
+14;3 Bed House in White River; 1 595 000;11 Hazel Crescent;White River;House;3;2;-25.322810004149943;31.03043998173925;2
+15;3 Bed House in White River; 1 650 000;71 Impala Street;White River;House;3;2;-25.324430016486176;31.004929994700916;2
+16;5 Bed House in White River; 1 795 000;4 Syd Cornwell Street;White River;House;5;3;-25.330390010648586;31.0090099698906;1
+17;5 Bed House in White River; 1 795 000;13 Drakensberg Street;White River;House;5;2;-25.322499999461;31.004430014176506;2
+18;4 Bed House in White River; 2 250 000;22 Hazey River Country Estate 19 Crocodile Close;White River;House;4;4;-25.284120771258443;31.00470102671631;
+19;4 Bed House in Parkville; 2 500 000;13 Essenhout Street;White River;House;4;2;-25.323790016269214;31.007469962820153;
+20;4 ha Farm in White River; 2 700 000;White River;White River;Farm;5;3;;;2
+21;5 Bed House in White River; 2 850 000;8 Bongani;White River;House;5;5;-25.326269999999965;31.022020000000055;2
+22;4 Bed House in White River; 2 990 000;121 Heidelberg;White River;House;4;3;-25.326269999999965;31.022020000000055;
+23;5587 m² Smallholding in White River; 3 890 000;116 Primkop;White River;Small Holding;;;-25.31681498704693;30.999930876454034;3
+24;4 Bed House in White River; 4 895 000;1 Touyz;White River;House;4;3;-25.352095999367993;31.005575147364787;2
+25;4 Bed House in White River; 5 500 000;13 Summer Breeze Estate;White River;House;4;3;-25.298209999999983;30.99409000000003;4
+26;4 Bed House in White River; 5 600 000;20 Wild Fig Country Estate Wild Fig;White River;House;4;3.5;-25.378319999999974;31.02380000000005;3
+27;14.8 ha Smallholding in White River; 7 950 000;White River;White River;Small Holding;;;;;3
+28;4 Bed House in White River; 8 300 000;16 Sonyaka;White River;House;4;3;-25.281579999999963;31.002050000000054;3
+29;4 Bed House in White River; 8 300 000;16 Sonyaka;White River;House;4;3;-25.281579999999963;31.002050000000054;2
+30;5 Bed House in White River; 8 000 000;64/355 Ju Swift Creek Estate;White River;House;5;2;-25.289944274204228;30.9989961674449;4
+31;230 m² Land available in White River; 370 000;White River;White River;Land;;;;;
+32;2 Bed House in White River; 556 500;White River;White River;House;2;1;;;
+33;2 Bed Apartment in White River; 795 000;White River;White River;Apartment;2;1;;;1
+34;2 Bed Apartment in White River; 820 000;White River;White River;Apartment;2;2;;;
+35;3 Bed House in White River; 1 625 000;White River;White River;House;3;2;;;1
+36;5 Bed House in White River; 3 900 000;White River;White River;House;5;3;;;2
+37;1.1 ha Smallholding in White River; 4 575 000;White River;White River;Small Holding;;;;;3
+38;14 Bed House in White River; 5 900 000;White River;White River;House;14;11;;;
+39;7 Bed House in White River; 8 500 000;00 Brightside;White River;House;7;7;-25.326269999999965;31.022020000000055;4
+40;1.7 ha Smallholding in White River; 6 995 000;White River;White River;Small Holding;;;;;2
+41;1 Bed Apartment in White River; 525 000;White River;White River;Apartment;1;1;;;
+42;3 Bed House in Hillsview; 680 000;White River;White River;House;3;1;;;
+43;2 Bed House in White River; 1 240 000;3 Hazey River Estate 3 Hull Street;White River;House;2;2;-25.323229979408552;31.029020003522277;
+44;3 Bed House in White River; 1 420 000;L18 Hazey River Country Estate L18 Coral Street;White River;House;3;2;-25.326269999999965;31.022020000000055;
+45;3 Bed House in White River; 1 450 000;L1 Hazey River Lakeview Estate L1 Hazey River;White River;House;3;2;-25.326269999999965;31.022020000000055;
+46;3 Bed Townhouse in White River; 1 595 000;9 Tendela Estate;White River;Townhouse;3;2;-25.326269999999965;31.022020000000055;2
+47;4 Bed House in White River; 1 695 000;97 Outeniqua Street;White River;House;4;2.5;-25.329069986627005;30.997920041437226;2
+48;4 Bed House in Parkville; 2 200 000;8 Tamboti;White River;House;4;2;-25.321200008188;31.01126000797899;2
+49;3 Bed House in White River; 2 350 000;3 Yaverland;White River;House;3;3;-25.317884965482115;31.057970091261893;2
+50;4 Bed House in White River; 3 955 000;1 Southern Acres Road;White River;House;4;3.5;-25.326269999999965;31.022020000000055;2
+51;6 ha Farm in White River; 4 950 000;35 Karula Road White River;White River;Farm;14;7;-25.326269999999965;31.022020000000055;2
+52;4 Bed House in White River; 4 975 000;12 Pamushana Estate 1121 Drakensberg Road;White River;House;4;4;-25.145149999999944;30.461910000000046;
+53;5 Bed House in Likweti Bushveld Farm Estate; 4 999 000;10 Likweti Hills;White River;House;5;3;-25.330299999999966;31.01183000000003;2
+54;2 ha Farm in White River; 5 300 000;105 Hooggelegen Valley View White River;White River;Farm;3;3;-25.326269999999965;31.022020000000055;2
+55;10.4 ha Farm in White River; 10 000 000;228 Hazyview;White River;Farm;5;5;-25.326269999999965;31.022020000000055;2
+56;232 m² Land available in White River; 440 000;14 Clem Merriman;White River;Land;;;-25.32238998698182;31.023939983464743;
+57;1 Bed Apartment in White River Central; 499 000;205/203 Rose Bridge;White River;Apartment;1;1;-25.326269999999965;31.022020000000055;
+58;899 m² Land available in White River; 500 000;2417 Fairlands Estate;White River;Land;;;-25.315289949213756;31.00170505745416;
+59;1 Bed Apartment in White River; 525 000;8 The Village;White River;Apartment;1;1;-25.325709999999958;31.02236000000005;
+60;1314 m² Land available in White River; 550 000;1 Drumrock Estate 24 Malachite Kingfisher Street;White River;Land;;;-25.412850183224506;30.986015348352847;
+61;1 Bed Townhouse in White River Central; 570 000;38 Lowveld Lodge 38 Tom Lawrence;White River;Townhouse;1;1;-25.322022440621375;31.02505641747418;1
+62;1.5 Bed Apartment in White River Central; 630 000;Bell Air 2 Allie Van Bergen;White River;Apartment;1.5;1;-25.334890003006393;31.015049969318824;1
+63;2 Bed Apartment in White River; 715 000;3 The Village 2 Japie Theron Street;White River;Apartment;2;1;-25.325899992755566;31.022699964708977;
+64;2 Bed Apartment in White River; 739 000;58 Matsefeni 00 Tsessebi Street;White River;Apartment;2;2;-25.326269999999965;31.022020000000055;
+65;2 Bed Townhouse in White River Central; 750 000;16 Hennie Van Til;White River;Townhouse;2;1;-25.33189203096151;31.01598589187924;
+66;2 Bed Apartment in White River Central; 750 000;16 Varinghof 2 Willem Swanepoel;White River;Apartment;2;1;-25.32850844658249;31.014743959089493;
+67;2 Bed Townhouse in White River Central; 760 000;8 Lowveld Lodge 8 Tom Lawrence Street;White River;Townhouse;2;1;-25.32469999758746;31.0225200052478;
+68;2 Bed Apartment in White River; 790 000;40 Outeniqua;White River;Apartment;2;2;-25.326480020455307;31.000599987339513;1
+69;2 Bed Apartment in White River Central; 820 000;3 Outeniqua;White River;Apartment;2;2;-25.323109992464595;31.00394000811687;
+70;2 Bed Apartment in White River Central; 820 000;56 Matsefeni Estate 79 Tsessebi Street;White River;Apartment;2;2;-25.33113815112184;30.997245451725206;
+71;1 ha Land available in White River; 820 000;Ptn Bundu Rocky Wild Park Ficus Street;White River;Land;;;-25.326269999999965;31.022020000000055;
+72;1.5 ha Land available in White River; 820 000;27 R40;White River;Land;;;-25.325220010860463;31.02193000308327;
+73;1 ha Land available in White River; 820 000;535 Sheffield Ridge 1121 Drakensberg Street;White River;Land;;;-25.322298783795226;31.00401444246707;
+74;2 Bed Apartment in White River; 825 000;56 Matsefeni 90 Outeniqua;White River;Apartment;2;2;-25.332189982445996;30.9972299593488;
+75;1 ha Land available in White River; 830 000;17 Brightside Eco & Aero Estate;White River;Land;;;-25.326269999999965;31.022020000000055;
+76;2 Bed House in White River;;84 Matsefeni 90 Outeniqua;White River;House;2;2;-25.332189982445996;30.9972299593488;
+77;1.5 ha Land available in White River; 850 000;27 Wild Fig Country Estate Road;White River;Land;;;-25.378319999999974;31.02380000000005;
+78;2 Bed Apartment in White River Central; 860 000;7 White River Acres 13 Peter Graham Street;White River;Apartment;2;1;-25.32845999362341;31.01969999774346;
+79;2 Bed Apartment in White River Central; 865 000;32 Peter Graham;White River;Apartment;2;1;-25.327005097394906;31.01837654742608;
+80;2 Bed House in White River;;Bell Air 27 Alie Van Bergen Street;White River;House;2;1;-25.329449980207457;31.01346998057025;
+81;1 ha Land available in White River; 865 000;536 Sheffield Ridge 536 Pine Lake Road;White River;Land;;;-23.636290498999983;27.349140000000034;
+82;1 ha Land available in White River; 865 000;535 Sheffield Ridge 1 Carmine Rd ,pine Lake Drive Road;White River;Land;;;-25.284451774531647;30.99680159162438;
+83;1 ha Land available in White River Central; 900 000;553 Farm;White River;Land;;;-25.326269999999965;31.022020000000055;
+84;3 Bed House in Hillsview; 940 000;1342 Loerie Street;White River;House;3;3;-25.306883359368765;31.053564310098157;
+85;1.1 ha Land available in White River; 950 000;63 Open Stand Waterberry Estate;White River;Land;;;-25.317634954265152;31.01513508754556;
+86;1 ha Land available in White River; 977 500;5 Brightside Aero Estate 5 Brightside Drive;White River;Land;;;-25.326269999999965;31.022020000000055;
+87;2 Bed Apartment in White River; 1 140 000;1 Fairlands Village;White River;Apartment;2;1;-25.315429947951543;31.001760084648495;
+88;3 Bed Townhouse in White River; 1 175 000;6 Petria''s Place 42 Tom Lawrence Street;White River;Townhouse;3;1;-25.322022440621375;31.02505641747418;1
+89;3 Bed Townhouse in White River; 1 175 000;6 Petria''s Place 6 Petria''s Place;White River;Townhouse;3;1;-25.319569999999942;31.02534000000003;1
+90;3 Bed House in White River; 1 210 000;30 Petria''s Place 30 Petria;White River;House;3;2;-25.319597267962685;31.025313459563275;2
+91;1 ha Land available in White River; 1 250 000;18 Waterberry;White River;Land;;;-25.317634954265152;31.01513508754556;
+92;1 ha Land available in White River; 1 250 000;13 Brightside Street;White River;Land;;;-25.326269999999965;31.022020000000055;
+93;1 ha Land available in White River; 1 250 000;1 Touyz Road;White River;Land;;;-25.352095999367993;31.005575147364787;
+94;3 Bed Townhouse in White River; 1 270 000;14 Petria''s Place 42 Tom Lawrence Street;White River;Townhouse;3;1;-25.322022440621375;31.02505641747418;1
+95;3 Bed House in White River; 1 350 000;35 Greenway Woods 35 Greenway Woods;White River;House;3;2;-25.326269999999965;31.022020000000055;
+96;3 Bed Townhouse in White River; 1 350 000;35 Greenway Woods 41 Pinelake Drive;White River;Townhouse;3;2;-25.284451774531647;30.99680159162438;
+97;3 Bed Townhouse in White River; 1 350 000;25 Greenway Woods 41 Pinelake Drive;White River;Townhouse;3;2;-25.284451774531647;30.99680159162438;
+98;3 Bed Townhouse in White River; 1 350 000;6 Greenway Woods 6 Pinelake Dr;White River;Townhouse;3;2;-25.284451774531647;30.99680159162438;
+99;3 Bed Townhouse in White River; 1 350 000;5 Vintage Drive;White River;Townhouse;3;2;-25.283650003971374;31.01283002226279;
+100;3 Bed House in White River; 1 395 000;4 Hazey River Lakeview Estate Hazyview Road;White River;House;3;2;-25.324209991527823;31.027909988084758;
+101;3 Bed House in White River; 1 495 000;3 Golden Beryl Street;White River;House;3;2;-25.326269999999965;31.022020000000055;1
+102;3 Bed House in White River; 1 500 000;18 Hazey River Lakeview Estate Hazyview Road;White River;House;3;2;-25.323480011580273;31.030139993424598;
+103;3 Bed House in White River Central; 1 550 000;78 Impala;White River;House;3;2;-25.32503175038297;31.00466874224831;2
+104;4 Bed House in White River; 1 560 000;4 Maluti Street;White River;House;4;3.5;-25.322410019730413;31.002839967144126;3
+105;3 Bed Townhouse in White River; 1 590 000;32 Greenway Woods 19 Pinelake Drive;White River;Townhouse;3;2;-25.284451774531647;30.99680159162438;
+106;3 Bed House in White River; 1 595 000;11 Hazel Cresent;White River;House;3;2;-25.322810004149943;31.03043998173925;1
+107;3 Bed House in White River; 1 600 000;1 Hazey River Country Estate 1 Hull Street;White River;House;3;2;-25.283630013132296;31.004149974791403;
+108;3 Bed Townhouse in White River Central; 1 635 000;3 Coppins Close 17 Danie Joubert Street;White River;Townhouse;3;2.5;-25.332679999999982;31.012510000000077;2
+109;3 Bed Townhouse in White River; 1 635 000;3 Coppins Close 23 Danie Joubert;White River;Townhouse;3;2;-25.332679999999982;31.012510000000077;2
+110;3 Bed House in White River; 1 642 000;9 Ss Hazey River Lakeview Estate 9 Leguan Street;White River;House;3;2;-25.31936001280293;31.026929975965487;
+111;3 Bed House in White River;;6 Tsessebi Street;White River;House;3;2;-25.326269999999965;31.022020000000055;2
+112;3 Bed House in White River; 1 690 000;L-3 Hazey River Lakeview R40 White River Hazyview Road;White River;House;3;2;-25.326269999999965;31.022020000000055;
+113;4 Bed House in White River; 1 695 000;97 Outeniqua Street;White River;House;4;2;-25.329069986627005;30.997920041437226;2
+114;4 Bed House in White River Central; 1 695 000;97 Outeniqua Street;White River;House;4;2.5;-25.329069986627005;30.997920041437226;2
+115;4 Bed House in White River; 1 695 000;97 Outeniqua;White River;House;4;2;-25.329069986627005;30.997920041437226;2
+116;4 Bed House in White River; 1 695 000;31 Henry Morey;White River;House;4;4;-25.330249990956048;31.000650027301475;2
+117;3 Bed House in White River Central; 1 695 000;85d Impala;White River;House;3;2;-25.319099450580083;31.010374300923065;1
+118;4 Bed House in White River; 1 695 000;31 Henry Morey;White River;House;4;4;-25.330249990956048;31.000650027301475;2
+119;4 Bed House in White River; 1 695 000;31 Henry Morey Street;White River;House;4;4;-25.330249990956048;31.000650027301475;2
+120;3 Bed House in White River; 1 695 000;73 Impala Road;White River;House;3;2;-25.324279980419334;31.005180026872637;2
+121;4 Bed Townhouse in White River Central; 1 699 000;4 Pelindaba Place;White River;Townhouse;4;3;-25.328389999999956;31.013520000000028;
+122;4 Bed House in White River; 1 740 000;31 Henry Morey;White River;House;4;4;-25.330249990956048;31.000650027301475;2
+123;2.1 ha Land available in White River; 1 750 000;1 The Ranch Road White River Central;White River;Land;;;-25.326269999999965;31.022020000000055;
+124;3 Bed House in White River Central; 1 850 000;6 Van Riebeeck Street;White River;House;3;1;-25.331520016925182;31.009109965995464;
+125;4.5 ha Land available in White River; 2 000 000;4 St Georges Street;White River;Land;;;-25.343326248269765;31.019802975332578;
+126;3 Bed House in White River; 2 300 000;22 Vallei Uitsig;White River;House;3;3;-25.326269999999965;31.022020000000055;1
+127;3 Bed House in White River; 2 350 000;32 Yaverland Street;White River;House;3;2;-25.317884965482115;31.057970091261893;2
+128;3 Bed House in White River Central; 2 395 000;2 Bee Eater Close;White River;House;3;2;-25.313649966993204;31.00108508998578;2
+129;3 Bed House in White River Central; 2 395 000;2375 Fairlands;White River;House;3;2;-25.315429947951543;31.001760084648495;2
+130;5 Bed House in White River Central; 2 400 000;18 Outeniqua Street;White River;House;5;3;-25.3245800106435;31.002520029899898;2
+131;3 Bed House in White River; 2 445 000;5 Flycatcher;White River;House;3;2;-25.312979938608116;31.000720100012003;2
+132;3 Bed House in White River Central; 2 450 000;84 White River Road;White River;House;3;3;-25.326269999999965;31.022020000000055;4
+133;3 Bed House in White River Central; 2 500 000;13 Essenhout Street;White River;House;3;2;-25.323790016269214;31.007469962820153;
+134;2 ha Farm in White River; 2 500 000;Y5d Yaverland Road;White River;Farm;4;1;-25.317884965482115;31.057970091261893;
+135;3 Bed House in White River; 2 520 000;1 Yaverland Road;White River;House;3;2.5;-25.317884965482115;31.057970091261893;2
+136;6 Bed House in White River Central; 2 600 000;29 Alie Van Bergen;White River;House;6;4;-25.329099993840373;31.013100003364087;4
+137;5 Bed House in White River; 2 659 000;41 Mt Anderson Street;White River;House;5;5;40.44748290554226;-74.37651004804394;1
+138;6 Bed House in White River; 2 659 000;8 My Bongani Street;White River;House;6;6;-25.326269999999965;31.022020000000055;2
+139;3 Bed House in White River; 2 685 000;22 Frank Townsend;White River;House;3;3;-25.333200001778636;31.002829992679324;
+140;4 Bed House in White River; 2 720 000;22 Frank Townsend;White River;House;4;3;-25.333200001778636;31.002829992679324;
+141;3 Bed House in White River; 2 720 000;22 Frank Townsend Road;White River;House;3;3;-25.333200001778636;31.002829992679324;
+142;3 Bed House in White River; 2 750 000;22 Frank Townsend;White River;House;3;3;-25.333200001778636;31.002829992679324;
+143;4.6 ha Land available in White River; 2 750 000;64 White River;White River;Land;;;-25.326269999999965;31.022020000000055;
+144;5 Bed House in White River; 2 795 000;Waterkant 12 Leeukop;White River;House;5;7;-25.326269999999965;31.022020000000055;4
+145;4 Bed House in White River Central;;4 John Barker Street;White River;House;4;2;-25.33100000365218;31.006820030047948;2
+146;5 Bed House in White River; 2 850 000;8 Mount Bongani;White River;House;5;5;-25.326269999999965;31.022020000000055;2
+147;5 Bed House in White River; 2 850 000;8 Waterkant Estate 8 Bongani Street;White River;House;5;5;-25.326269999999965;31.022020000000055;2
+148;4 Bed House in White River; 2 980 000;249 Heidelberg Farm;White River;House;4;3;-25.326269999999965;31.022020000000055;2
+149;3 Bed House in White River; 3 200 000;21 The Village;White River;House;3;2;-25.325709999999958;31.02236000000005;
+150;9 Bed House in White River; 3 200 000;9 John Barker Street;White River;House;9;9;-25.330290014543706;31.0071699745055;2
+151;9 Bed House in White River; 3 200 000;9 John Baker;White River;House;9;2;-25.330290014543706;31.0071699745055;
+152;6 Bed House in White River; 3 295 000;8 Jacaranda Street;White River;House;6;4;-25.328680018581764;31.006400012879823;
+153;6 Bed House in White River Central; 3 295 000;8 Jakaranda;White River;House;6;4;-25.328680018581764;31.006400012879823;2
+154;1.9 ha Farm in White River; 3 300 000;6a Benroc;White River;Farm;3;2;-25.326269999999965;31.022020000000055;
+155;4 Bed House in White River; 3 350 000;16 Wally Scott;White River;House;4;5;-25.33023000011697;31.004420039711704;2
+156;5 Bed House in White River Central; 3 395 000;1 St Georges Rd;White River;House;5;3;-25.343326248269765;31.019802975332578;3
+157;5.5 ha Farm in White River; 3 400 000;White River;White River;Farm;12;11;;;3
+158;3 Bed House in White River Central; 3 500 000;372 The Oaks;White River;House;3;4;-25.312863173666756;31.01230803640966;2
+159;12.4 ha Farm in White River; 3 500 000;89 Heidelberg;White River;Farm;2;2;-25.326269999999965;31.022020000000055;1
+160;3 Bed House in White River; 3 695 000;64 St Georges;White River;House;3;3;-25.343326248269765;31.019802975332578;2
+161;4 Bed House in White River; 3 800 000;16 Bedford Estate 16 Bedford Estate;White River;House;4;4;-26.158079999999927;28.127540000000067;2
+162;3 Bed House in White River; 3 900 000;Ptn 10 Farm 570 Vergenoeg 10 Likweti Plains;White River;House;3;2;-25.326269999999965;31.022020000000055;2
+163;4 Bed House in White River; 3 995 000;73 Southern Acres;White River;House;4;3;-25.326269999999965;31.022020000000055;2
+164;7 Bed House in White River; 4 200 000;28 Wally Scott;White River;House;7;7.5;-25.328659985833184;31.002920014319443;2
+165;8 Bed House in White River; 4 250 000;28 Wally Scott Street;White River;House;8;9;-25.328659985833184;31.002920014319443;1
+166;8 Bed House in White River; 4 350 000;28 Ambience Inn 28 Wally Scott Street;White River;House;8;8;-25.328659999999957;31.002920000000074;2
+167;8 Bed House in White River Central; 4 350 000;28 Wally Scott Culdesac;White River;House;8;8;-25.328659985833184;31.002920014319443;2
+168;26 ha Farm in White River; 4 900 000;6 Highlands Farm;White River;Farm;3;3;-26.743239999999957;29.021250000000066;2
+169;3 Bed House in White River; 4 930 000;63 The Oaks;White River;House;3;3;-25.31511327891984;31.00305898871063;3
+170;4 Bed House in White River; 5 600 000;20a Wild Fig;White River;House;4;3;-25.326269999999965;31.022020000000055;3
+171;11 Bed House in White River; 5 800 000;51 Frank Townsend Street;White River;House;11;11;-25.332249996872733;31.002850025427932;
+172;11 Bed House in White River; 5 900 000;51 Frank Townsend;White River;House;11;11;-25.332249996872733;31.002850025427932;
+173;8 Bed House in White River; 5 950 000;5 Coolmore;White River;House;8;8;-25.301175634697543;30.995343930368886;6
+174;4 Bed House in White River; 6 200 000;21 Summerbreeze;White River;House;4;3;-25.325820444591155;31.005287341900736;3
+175;3 Bed House in White River; 6 500 000;83 Tauton Way;White River;House;3;2.5;-25.326269999999965;31.022020000000055;2
+176;14 Bed House in White River Central; 6 900 000;51 Frank Townsend;White River;House;14;11;-25.332249996872733;31.002850025427932;
+177;10 Bed House in White River; 7 500 000;32 Vergenoeg;White River;House;10;10;-25.326269999999965;31.022020000000055;4
+178;15 ha Farm in White River; 7 750 000;White River;White River;Farm;7;5;;;3
+179;3 Bed House in White River; 7 900 000;27 Brightside Aero Estate 176 Brightside Aero Estate;White River;House;3;4;-25.326269999999965;31.022020000000055;4
+180;7 Bed House in White River; 7 900 000;27 Brightside Aero End;White River;House;7;8;-25.326269999999965;31.022020000000055;4
+181;5 Bed House in White River; 7 999 000;1 Yaverland Rd;White River;House;5;3;-25.317884965482115;31.057970091261893;6
+182;5 Bed House in White River; 8 650 000;95 Blue Valley;White River;House;5;4;-25.326269999999965;31.022020000000055;3
+183;6 Bed House in White River; 8 760 000;22 Yaverland Road;White River;House;6;7;-25.317884965482115;31.057970091261893;4
+184;12.2 ha Farm in White River; 9 900 000;14 Farm Hooggelegen;White River;Farm;6;3;-22.81180999999998;28.29463000000004;3
+185;11 Bed House in White River; 11 000 000;6 Uitkyk;White River;House;11;7;-25.326269999999965;31.022020000000055;
+186;House in White River Central; 15 000 000;0 Culdesac 1 Alma Road;White River;House;;12;-25.326930002927284;31.00884995935897;2
+187;112 ha Farm in White River; 42 000 000;139ju Kiaora Farm White River;White River;Farm;20;10;-25.326269999999965;31.022020000000055;7
+188;3 Bed House in Kabokweni;;1814 Kabokweni Road;White River;House;3;1;-25.353052938649544;31.07297841664798;
+189;1 Bed Apartment in White River Central; 435 000;4 Hennie Van Till;White River;Apartment;1;1;-25.333900016422334;31.01654002024631;
+190;4 Bed House in White River; 450 000;378 Tekatakho 378 Uklebe Street;White River;House;4;2;-25.3356355860188;31.11215428253948;
+191;2 Bed House in White River; 470 000;778 Kabokweni Road;White River;House;2;1;-25.353052938649544;31.07297841664798;
+192;2 Bed Apartment in White River Central; 650 000;18 Alie Van Bergen Street;White River;Apartment;2;1;-25.33221001519459;31.01365002385046;
+193;2 Bed Apartment in White River; 750 000;Lowveld Lodge 153 Kastaing;White River;Apartment;2;1;-25.321739999999977;31.024950000000047;1
+194;2 Bed Apartment in White River Central; 799 000;5 Stelliahof 18 Alie Van Bergen;White River;Apartment;2;1;-25.332089999999937;31.014120000000048;
+195;2 Bed Apartment in White River; 820 000;Ext18 Outeniqua;White River;Apartment;2;2;-25.328105213658144;30.999233670768003;
+196;1 ha Land available in White River; 850 000;20 Brightside Eco & Aero Estate;White River;Land;;;-25.326269999999965;31.022020000000055;
+197;4 Bed House in Kabokweni; 890 000;1425 Kabokweni Road;White River;House;4;2;-25.353052938649544;31.07297841664798;
+198;Farm in White River; 1 200 000;White River;White River;Farm;;;;;
+199;2 Bed House in White River; 1 225 000;1 Taaibos Street;White River;House;2;1;-25.319152981276996;31.01499804792495;1
+200;2 Bed House in White River; 1 250 000;10 Hazel Crescent;White River;House;2;1;-25.323860005160725;31.028660000780917;1
+201;4 Bed House in White River; 2 650 000;37 Bundu Lifestyle Estate;White River;House;4;3;-25.36062383877152;31.01651329352245;2
+202;4.6 ha Land available in White River; 2 700 000;479 Ptn Of Farm;White River;Land;;;-25.326269999999965;31.022020000000055;
+203;3 Bed House in White River; 2 850 000;4 John Barker Street;White River;House;3;2;-25.33100000365218;31.006820030047948;2
+204;6595 m² Land available in White River Central; 3 000 000;1 White River 1 Tom Lawrence Str;White River;Land;;;-25.324614420882245;31.021702571905575;
+205;6.1 ha Smallholding in White River; 3 265 000;White River;White River;Small Holding;;;;;
+206;10 Bed House in White River; 3 285 000;85 Burger Street;White River;House;10;6;-25.34271753094341;30.998723958747547;2
+207;10 Bed House in White River Central; 3 300 000;7 John Barker;White River;House;10;10;-25.33052998843162;31.0071200183626;2
+208;272 ha Farm in White River; 4 250 000;White River;White River;Farm;;;;;
+209;2 ha Land available in White River Central; 5 500 000;101 R40;White River;Land;;;-25.32521858285448;31.021553953352903;
+210;2 ha Land available in White River; 5 500 000;1 R40;White River;Land;;;-25.331119990596136;31.01191999903503;
+211;9.7 ha Farm in White River;On Auction;249 Heidelberg White River Rural;White River;Farm;;;-25.326269999999965;31.022020000000055;
+212;2.9 ha Farm in White River;On Auction;64 White River White River Estates;White River;Farm;38;28;-25.284120771258443;31.00470102671631;
+213;5.3 ha Farm in White River Central;On Auction;64 White River White River Central;White River;Farm;9;9;-25.350845645789654;30.998535547245222;
+214;1.4 ha Land available in White River; 680 000;14 Wild Fig Estate;White River;Land;;;-25.360609956719266;31.01637506439181;
+215;2 Bed Apartment in White River Central; 680 000;13 Steliahof 18 Alie Van Bergen Street;White River;Apartment;2;1.5;-25.33221001519459;31.01365002385046;1
+216;2 Bed Apartment in White River Central; 715 000;3 The Village;White River;Apartment;2;1;-25.325709999999958;31.02236000000005;1
+217;1.2 ha Land available in Likweti Bushveld Farm Estate; 850 000;5 Likweti Plains Way;White River;Land;;;-25.326269999999965;31.022020000000055;
+218;2 Bed Apartment in White River Central; 950 000;4 Bellevue;White River;Apartment;2;1;-25.328389999999956;31.013520000000028;1
+219;4 ha Land available in White River; 990 000;125 Kingston Vale;White River;Land;;;-25.326269999999965;31.022020000000055;
+220;1 ha Land available in Likweti Bushveld Farm Estate; 1 100 000;1 Likweti Hills;White River;Land;;;-25.330299999999966;31.01183000000003;
+221;2 Bed House in White River; 1 185 000;2 Hull Road;White River;House;2;2;-25.326269999999965;31.022020000000055;
+222;3 Bed Townhouse in White River; 1 368 640;17 Fairlands Village;White River;Townhouse;3;2;-25.315429947951543;31.001760084648495;
+223;1 ha Land available in White River; 1 420 000;0 Lands End 249 Lands;White River;Land;;;-25.326269999999965;31.022020000000055;
+224;3 Bed House in White River; 2 345 000;Erf 2367 Fairlands;White River;House;3;2;-25.315429947951543;31.001760084648495;2
+225;9162 m² Farm in White River; 2 350 000;White River;White River;Farm;3;2;;;2
+226;3 Bed House in White River; 2 395 000;4 Fairlands 4 Bee-eater;White River;House;3;2;-25.315429947951543;31.001760084648495;1
+227;3 Bed House in White River; 2 395 000;Erf 2374 Fairlands;White River;House;3;2;-25.315429947951543;31.001760084648495;2
+228;3 Bed House in White River; 2 445 000;5 Fairlands 5 Flycatcher;White River;House;3;3;-25.315429947951543;31.001760084648495;1
+229;5 Bed House in White River; 2 687 500;8 Bongani;White River;House;5;5;-25.326269999999965;31.022020000000055;1
+230;7 Bed House in White River; 4 190 000;28 Wally Scott Street;White River;House;7;8;-25.328659985833184;31.002920014319443;2
+231;1.1 ha Farm in White River; 4 575 000;White River;White River;Farm;9;8;;;4
+232;1 Bed Apartment in White River Central;On Auction;1-15 & 17 Le Passage 30 Alie Van Bergen Street;White River;Apartment;1;1;-25.329679979630598;31.012549982877715;
+233;8 Bed House in White River Central; 4 900 000;7 Coolmore Road;White River;House;8;8;-25.301175634697543;30.995343930368886;4
+234;4 Bed House in Likweti Bushveld Farm Estate; 5 150 000;Likweti Bushveld Farm Estate 36 Likweti Road;White River;House;4;4;-25.326269999999965;31.022020000000055;2
+235;4 Bed House in White River Central; 5 420 000;35 White River;White River;House;4;3;-25.326269999999965;31.022020000000055;
+236;4 Bed House in White River; 5 815 000;13 Summer Breeze Estate 13 Summer Breeze Estate;White River;House;4;4;-25.298209999999983;30.99409000000003;1
+237;1 Bed Apartment in White River Central; 435 000;20 Janmari 3 Rose Bridge;White River;Apartment;1;1;-25.326269999999965;31.022020000000055;
+238;1 Bed Apartment in White River; 556 000;31 Lowveld Lodge 153 Kastaing Road;White River;Apartment;1;1;-25.321739999999977;31.024950000000047;
+239;2 Bed House in White River; 595 000;44 Panorama-dennehof 23 Danie Joubert Street;White River;House;2;1;-25.331956918743373;31.01220462275205;
+240;2 Bed Townhouse in White River; 790 000;90 Outeniqua Street;White River;Townhouse;2;2;-25.332189982445996;30.9972299593488;
+241;2 Bed Apartment in White River; 810 000;84 Matsefeni Lifestyle Centre 90 Outeniqua Street;White River;Apartment;2;2;-25.332189982445996;30.9972299593488;
+242;2 Bed Apartment in White River; 820 000;56 Matsefeni Lifestyle Centre 90 Outeniqua Street;White River;Apartment;2;2;-25.332189982445996;30.9972299593488;
+243;2 Bed Apartment in White River; 825 000;26 Matsefeni;White River;Apartment;2;2;-25.326269999999965;31.022020000000055;
+244;2 Bed Apartment in White River Central; 865 000;8 Palmhof 17 Petergraham Street;White River;Apartment;2;1;-25.327299980133446;31.01917998447044;
+245;8 Bed House in White River Central; 3 200 000;9 John Barker Street;White River;House;8;8;-25.330290014543706;31.0071699745055;4
+246;10 Bed House in White River; 5 690 000;11 Jakaranda Street;White River;House;10;10;-25.32891999246968;31.005059998019163;2
+247;230 m² Land available in White River; 400 000;White River;White River;Land;;;;;
+248;1 Bed Apartment in White River Central; 415 000;3 Joe Hanna;White River;Apartment;1;1;-25.328169979773534;31.0172199602319;
+249;595 m² Land available in White River; 440 000;White River;White River;Land;;;;;
+250;603 m² Land available in White River; 440 000;White River;White River;Land;;;;;
+251;742 m² Land available in White River; 459 500;White River;White River;Land;;;;;
+252;1 Bed Apartment in White River; 516 000;White River;White River;Apartment;1;1;;;
+253;899 m² Land available in White River; 545 000;White River;White River;Land;;;;;
+254;1 Bed Apartment in White River; 550 000;White River;White River;Apartment;1;1;;;
+255;1 ha Land available in White River; 550 000;White River;White River;Land;;;;;
+256;1140 m² Land available in White River; 550 000;White River;White River;Land;;;;;
+257;1 Bed Apartment in White River; 560 000;White River;White River;Apartment;1;1;;;
+258;2 Bed Apartment in White River; 599 000;White River;White River;Apartment;2;1;;;
+259;782 m² Land available in White River; 605 000;White River;White River;Land;;;;;
+260;2 Bed Apartment in White River Central; 650 000;White River;White River;Apartment;2;2;;;
+261;686 m² Land available in White River; 650 000;White River;White River;Land;;;;;
+262;2 Bed Apartment in White River; 670 000;White River;White River;Apartment;2;1;;;
+263;2 Bed Apartment in White River Central; 710 000;White River;White River;Apartment;2;1;;;
+264;2 Bed Apartment in White River; 720 000;White River;White River;Apartment;2;2;;;
+265;4.6 ha Land available in White River; 740 000;White River;White River;Land;;;;;
+266;2 Bed Apartment in White River Central; 750 000;White River;White River;Apartment;2;1;;;1
+267;1 ha Land available in White River; 750 000;White River;White River;Land;;;;;
+268;2 Bed Apartment in White River; 750 000;White River;White River;Apartment;2;2;;;
+269;2 Bed Apartment in White River Central; 755 000;White River;White River;Apartment;2;1;;;2
+270;2 Bed Apartment in White River; 785 000;White River;White River;Apartment;2;1;;;
+271;2 Bed Apartment in White River; 806 250;White River;White River;Apartment;2;2;;;
+272;2 Bed Apartment in White River; 817 000;83 Matsefeni Outeniqua Street;White River;Apartment;2;1;-25.328440002784333;30.998599981422814;
+273;2 Bed Apartment in White River Central; 830 000;White River;White River;Apartment;2;2;;;
+274;2 Bed Apartment in White River; 830 000;White River;White River;Apartment;2;2;;;
+275;2 Bed Apartment in White River; 835 000;White River;White River;Apartment;2;2;;;
+276;2 Bed House in White River Central; 845 000;White River;White River;House;2;2;;;
+277;2 Bed House in White River; 869 000;White River;White River;House;2;1;;;
+278;3 Bed House in White River Central; 920 000;White River;White River;House;3;1;;;1
+279;2 Bed House in White River;;4 Senator Street;White River;House;2;1;-25.326269999999965;31.022020000000055;
+280;1 ha Land available in Likweti Bushveld Farm Estate; 1 100 000;White River;White River;Land;;;;;
+281;1 ha Land available in Likweti Bushveld Farm Estate; 1 100 000;White River;White River;Land;;;;;
+282;1 ha Land available in Likweti Bushveld Farm Estate; 1 100 000;White River;White River;Land;;;;;
+283;1.4 ha Land available in Likweti Bushveld Farm Estate; 1 100 000;White River;White River;Land;;;;;
+284;5 Bed House in White River;;White River;White River;House;5;3;;;
+285;1 Bed House in White River; 1 150 000;White River;White River;House;1;1;;;1
+286;3 Bed Townhouse in White River; 1 170 000;White River;White River;Townhouse;3;1;;;1
+287;3 Bed Townhouse in White River; 1 175 000;White River;White River;Townhouse;3;1;;;1
+288;3 Bed Townhouse in White River; 1 175 000;White River;White River;Townhouse;3;1;;;1
+289;1 ha Land available in White River; 1 200 000;White River;White River;Land;;;;;
+290;3 Bed Townhouse in White River; 1 215 000;White River;White River;Townhouse;3;1;;;1
+291;2 Bed House in White River; 1 215 000;Mimosa;White River;House;2;1;-25.321202864210942;31.01040626594687;1
+292;3 Bed Townhouse in White River; 1 220 000;White River;White River;Townhouse;3;1;;;1
+293;1 ha Land available in White River; 1 250 000;White River;White River;Land;;;;;
+294;1 ha Land available in White River; 1 250 000;White River;White River;Land;;;;;
+295;3 Bed House in White River; 1 250 000;White River;White River;House;3;2;;;
+296;3 Bed House in White River Central; 1 295 000;White River;White River;House;3;1;;;
+297;3 Bed House in White River; 1 300 000;White River;White River;House;3;2;;;
+298;1 ha Farm in White River; 1 350 000;1 R538;White River;Farm;3;3;-25.319815403624933;31.049494951107338;2
+299;3 Bed House in White River;;White River;White River;House;3;2;;;
+300;3 Bed House in White River Central; 1 480 000;White River;White River;House;3;2.5;;;2
+301;3 Bed House in White River; 1 595 000;White River;White River;House;3;2;;;2
+302;3 Bed House in White River; 1 595 000;White River;White River;House;3;2;;;2
+303;3 Bed House in White River;;White River;White River;House;3;2;;;
+304;3 Bed House in White River; 1 620 000;White River;White River;House;3;2;;;1
+305;3 Bed House in White River; 1 625 000;White River;White River;House;3;3;;;1
+306;4 Bed House in White River Central; 1 695 000;White River;White River;House;4;3;;;2
+307;4185 m² Land available in White River; 1 700 000;White River;White River;Land;;;;;
+308;3 Bed House in White River; 1 720 000;White River;White River;House;3;2;;;1
+309;4 Bed House in White River; 1 740 000;White River;White River;House;4;4;;;2
+310;4 Bed House in White River; 1 780 000;White River;White River;House;4;2;;;2
+311;4 Bed House in Parkville; 1 795 000;White River;White River;House;4;2;;;2
+312;4 Bed House in White River; 1 900 000;White River;White River;House;4;4;;;2
+313;4 Bed House in White River; 1 979 000;White River;White River;House;4;3;;;1
+314;5 Bed House in White River; 2 075 000;White River;White River;House;5;4;;;2
+315;5 Bed House in White River; 2 095 000;White River;White River;House;5;4;;;
+316;3 Bed House in White River; 2 095 000;White River;White River;House;3;3;;;2
+317;3 Bed House in White River; 2 100 000;White River;White River;House;3;2;;;2
+318;3 Bed Townhouse in White River; 2 300 000;White River;White River;Townhouse;3;3;;;1
+319;4 Bed House in White River; 2 300 000;White River;White River;House;4;2;;;2
+320;3 Bed House in White River; 2 345 000;White River;White River;House;3;2;;;2
+321;3 Bed House in White River; 2 395 000;White River;White River;House;3;2;;;2
+322;3 Bed House in White River; 2 395 000;White River;White River;House;3;2;;;2
+323;3 Bed House in White River; 2 445 000;White River;White River;House;3;3;;;2
+324;4 Bed House in White River; 2 460 000;White River;White River;House;4;3;;;
+325;5 Bed House in White River; 2 680 000;White River;White River;House;5;5;;;2
+326;5 ha Farm in White River; 2 730 000;White River;White River;Farm;;;;;
+327;5 Bed House in White River; 2 750 000;White River;White River;House;5;3;;;2
+328;64 ha Farm in White River; 2 800 000;54 Numbi Road;White River;Farm;;;-25.326269999999965;31.022020000000055;
+329;5 Bed House in White River; 2 800 000;White River;White River;House;5;6;;;4
+330;4 Bed House in White River; 2 840 000;White River;White River;House;4;4;;;3
+331;5 Bed House in White River Central; 2 850 000;White River;White River;House;5;5;;;2
+332;6.2 ha Farm in White River Central; 3 150 000;White River;White River;Farm;2;2;;;
+333;3 Bed House in White River; 3 195 000;White River;White River;House;3;2.5;;;2
+334;4 Bed House in White River; 3 200 000;White River;White River;House;4;2.5;;;2
+335;3 Bed House in White River; 3 200 000;White River;White River;House;3;2;;;2
+336;3 Bed House in White River; 3 280 000;White River;White River;House;3;3;;;1
+337;6.4 ha Farm in White River; 3 500 000;White River;White River;Farm;2;2;;;
+338;4 Bed House in White River; 3 500 000;White River;White River;House;4;2;;;2
+339;9 Bed House in White River; 3 800 000;White River;White River;House;9;8;;;
+340;4 Bed House in White River; 3 955 000;White River;White River;House;4;4;;;3
+341;4 Bed House in White River; 3 980 000;White River;White River;House;4;3.5;;;2
+342;8 Bed House in White River; 4 150 000;White River;White River;House;8;8;;;2
+343;8 Bed House in White River; 4 290 000;White River;White River;House;8;8;;;2
+344;11 Bed House in White River; 4 400 000;White River;White River;House;11;7;;;1
+345;2.1 ha Farm in White River; 4 500 000;43 Paul Kruger Rd;White River;Farm;7;7;-25.326269999999965;31.022020000000055;
+346;85 ha Farm in White River; 4 500 000;White River;White River;Farm;3;4;;;
+347;4 Bed House in Likweti Bushveld Farm Estate; 4 700 000;White River;White River;House;4;4;;;2
+348;5 Bed House in White River; 4 895 000;White River;White River;House;5;4;;;3
+349;15.4 ha Farm in Hillsview; 5 000 000;1492 Starling Street;White River;Farm;5;3;-25.308077872297662;31.052014987143085;1
+350;53 ha Farm in White River; 5 500 000;1 Tauton Estate;White River;Farm;;;-25.326269999999965;31.022020000000055;
+351;5 Bed House in White River; 5 500 000;White River;White River;House;5;4;;;5
+352;4 Bed House in White River; 5 880 000;White River;White River;House;4;4;;;1
+353;4 Bed House in Likweti Bushveld Farm Estate; 6 700 000;White River;White River;House;4;4;;;2
+354;14.8 ha Farm in White River; 7 660 000;249 Heidelberg;White River;Farm;5;4;-25.326269999999965;31.022020000000055;1
+355;1 ha Farm in White River; 7 900 000;176 Brightside Aero Estate;White River;Farm;7;6;-25.326269999999965;31.022020000000055;3
+356;1 ha Farm in White River; 7 900 000;176 Bright Side Aero Estate;White River;Farm;7;6;-25.326269999999965;31.022020000000055;3
+357;1 ha Farm in White River; 7 900 000;179 Brightside;White River;Farm;6;5;-25.326269999999965;31.022020000000055;4
+358;7 Bed House in White River; 7 900 000;White River;White River;House;7;7;;;4
+359;8.8 ha Farm in White River; 7 999 000;Y1 Yaverland;White River;Farm;5;5;-25.317884965482115;31.057970091261893;
+360;7 Bed House in White River; 8 500 000;White River;White River;House;7;8;;;4
+361;12 Bed House in White River; 15 000 000;White River;White River;House;12;11;;;
+362;874 m² Land available in White River; 415 000;White River;White River;Land;;;;;
+363;899 m² Land available in White River; 500 000;White River;White River;Land;;;;;
+364;2 Bed Apartment in White River; 730 000;White River;White River;Apartment;2;1;;;
+365;4 Bed House in Kabokweni;;White River;White River;House;4;2;;;
+366;6 Bed House in Kabokweni; 770 000;688 Kabokweni;White River;House;6;6;-25.326269999999965;31.022020000000055;
+367;2 Bed Townhouse in White River; 770 000;56 Matsefeni;White River;Townhouse;2;2;-25.326269999999965;31.022020000000055;
+368;2 Bed Apartment in White River Central; 850 000;White River;White River;Apartment;2;2;;;
+369;4 Bed House in Kabokweni; 900 000;White River;White River;House;4;2;;;1
+370;3 Bed House in White River; 967 500;White River;White River;House;3;2;;;1
+371;1 ha Land available in White River; 997 700;White River;White River;Land;;;;;
+372;9900 m² Land available in White River Central; 1 000 000;White River;White River;Land;;;;;
+373;3 Bed Apartment in White River Central; 1 100 000;White River;White River;Apartment;3;2;;;
+374;3 Bed Townhouse in White River; 1 210 000;White River;White River;Townhouse;3;1;;;
+375;3 Bed Apartment in White River; 1 350 000;White River;White River;Apartment;3;2;;;
+376;4.7 ha Land available in White River; 1 350 000;White River;White River;Land;;;;;
+377;2 Bed Townhouse in White River Central; 1 390 000;White River;White River;Townhouse;2;1;;;1
+378;3 Bed House in White River; 1 695 000;White River;White River;House;3;2;;;
+379;4 Bed House in White River; 1 895 000;White River;White River;House;4;3;;;1
+380;3 Bed Townhouse in White River Central; 2 395 000;White River;White River;Townhouse;3;2;;;2
+381;Farm in White River; 2 495 000;White River;White River;Farm;6;4;;;2
+382;5 Bed House in White River; 2 850 000;White River;White River;House;5;5;;;4
+383;5587 m² Farm in Plaston; 3 830 000;White River;White River;Farm;3;2;;;2
+384;8 Bed House in White River; 4 190 000;White River;White River;House;8;8;;;2
+385;2 ha Farm in White River; 5 350 000;101 Plaston Road;White River;Farm;3;4;-25.365771816193988;31.001692258191216;2
+386;10 Bed House in White River; 5 974 375;White River;White River;House;10;6;;;2
+387;4 Bed House in Likweti Bushveld Farm Estate; 7 600 000;White River;White River;House;4;4;;;2
+388;5 Bed House in White River; 8 650 000;White River;White River;House;5;3;;;3
+389;8 Bed House in White River Central; 8 750 000;White River;White River;House;8;5;;;3
+390;15.7 ha Farm in White River Central; 9 950 000;White River;White River;Farm;6;3;;;2
+391;16 ha Farm in White River; 10 750 000;White River;White River;Farm;1;1;;;
+392;45 ha Smallholding in White River; 12 500 000;White River;White River;Small Holding;;;;;
+393;166 ha Farm in White River Central; 12 600 000;30 Hazy View Street 1;White River;Farm;;;-25.3410771605924;31.037960897405892;
+394;3 Bed House in White River; 600 000;White River;White River;House;3;2;;;2
+395;2 Bed Apartment in White River Central; 680 000;White River;White River;Apartment;2;1;;;1
+396;2 Bed Apartment in White River Central; 699 000;5 Stelliahof;White River;Apartment;2;1;-25.332089999999937;31.014120000000048;1
+397;4 Bed House in Hillsview; 1 050 000;White River;White River;House;4;2;;;1
+398;3 Bed Townhouse in White River; 1 250 000;White River;White River;Townhouse;3;1;;;1
+399;4 Bed House in White River; 1 695 000;White River;White River;House;4;4;;;1
+400;9 Bed House in White River; 3 200 000;White River;White River;House;9;9;;;1
+401;Farm in White River; 5 200 000;White River;White River;Farm;3;3;;;1
+402;4 Bed House in Longmere Estate; 14 200 000;White River;White River;House;4;5;;;3
+403;1 Bed Apartment in White River Central; 595 000;White River;White River;Apartment;1;1;;;
+404;2 Bed Apartment in White River; 806 250;White River;White River;Apartment;2;2;;;
+405;2 Bed Apartment in White River; 820 000;White River;White River;Apartment;2;2;;;
+406;2 Bed Apartment in White River Central; 820 000;White River;White River;Apartment;2;2;;;
+407;2 Bed Apartment in White River; 838 000;White River;White River;Apartment;2;2;;;
+408;1 ha Farm in White River; 1 450 000;Lakeview 14;White River;Farm;;;-25.326269999999965;31.022020000000055;
+409;4 Bed House in White River; 1 700 000;White River;White River;House;4;3.5;;;2
+410;3 Bed House in White River; 2 345 000;White River;White River;House;3;2;;;2
+411;4 Bed House in White River; 2 445 000;White River;White River;House;4;2.5;;;2
+412;2.2 ha Farm in White River; 3 250 000;White River;White River;Farm;10;8;;;
+413;9 Bed House in White River Central; 6 800 000;White River;White River;House;9;9;;;
+414;1 Bed Apartment in White River Central; 525 000;White River;White River;Apartment;1;1;;;
+415;2 Bed Apartment in White River; 720 000;White River;White River;Apartment;2;1;;;
+416;2 Bed House in White River; 750 000;White River;White River;House;2;2;;;
+417;2 Bed House in White River Central; 755 000;White River;White River;House;2;1;;;
+418;2 Bed Apartment in White River; 820 000;White River;White River;Apartment;2;2;;;
+419;19 ha Farm in White River; 1 800 000;White River;White River;Farm;;;;;
+420;33.5 ha Farm in White River; 3 300 000;White River;White River;Farm;;;;;
+421;1 ha Farm in White River;Price on Application;White River;White River;Farm;5;5.5;;;
+422;1 ha Land available in White River;Price on Application;White River;White River;Land;;;;;
+423;3 Bed Townhouse in White River;Price on Application;White River;White River;Townhouse;3;1;;;1
+424;8 Bed House in White River;Price on Application;White River;White River;House;8;8;;;2
+425;3 Bed House in White River;Price on Application;White River;White River;House;3;3;;;
+426;4.3 ha Farm in White River Central;Price on Application;White River;White River;Farm;7;8;;;4
+427;17.4 ha Farm in White River;Price on Application;White River;White River;Farm;4;2;;;2
+428;22.4 ha Farm in White River;Price on Application;White River;White River;Farm;;;;;
+429;22.4 ha Farm in White River;Price on Application;White River;White River;Farm;;;;;
+430;22.4 ha Farm in White River;Price on Application;White River;White River;Farm;;;;;
+431;22.4 ha Farm in White River;Price on Application;White River;White River;Farm;;;;;
